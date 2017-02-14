@@ -1,7 +1,0 @@
-#Tue Feb 14 15:27:56 GMT 2017
-base.0=/Users/student/Desktop/Lab03_Template-masterMatthew/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4afc8e6f191a077788373628a79801ac24e5fc73
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=/Users/student/Desktop/Lab03_Template-masterMatthew/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d68b8800c287d3ddecf3ad02460b9c0eb2415f8a/classes.dex
-base.1=/Users/student/Desktop/Lab03_Template-masterMatthew/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d68b8800c287d3ddecf3ad02460b9c0eb2415f8a
-file.0=/Users/student/Desktop/Lab03_Template-masterMatthew/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4afc8e6f191a077788373628a79801ac24e5fc73/classes.dex
